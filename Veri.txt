@@ -1,0 +1,8 @@
+123 Fatma 14
+125 Samet 62
+333 Yucel 54
+887 Sude 61
+567 Ayse 17
+978 Ahmet 84
+245 Ismail 37
+345 Tayfun 34
